@@ -1,8 +1,8 @@
 {
-	"dependencies": {
-		"@netlify/functions": "^1.6.0"
-	},
-	"devDependencies": {
-		"@types/node": "^20.1.4"
-	}
+  "dependencies": {
+    "@netlify/functions": "^1.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.1.4"
+  }
 }

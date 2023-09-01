@@ -1,7 +1,7 @@
 {
-	"compilerOptions": {
-		"strict": true,
-		"forceConsistentCasingInFileNames": true,
-		"typeRoots": ["./types"]
-	}
+  "compilerOptions": {
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "typeRoots": ["./types"]
+  }
 }
